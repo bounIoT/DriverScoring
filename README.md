@@ -10,7 +10,6 @@ I am a senior student in Computer Engineering at Boğaziçi University. I have b
 
 ### Skills
 * C/C++, C#, Python, Java
-* SQL
 * MATLAB
 * Unity
 
