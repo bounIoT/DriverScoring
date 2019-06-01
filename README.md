@@ -1,4 +1,4 @@
-# DriverScoring
+# Driver Scoring
 
 Our project deals with coming up with a scoring system for drivers especially those of public transportation. Using a 3-axis accelerometer, we measure accelerations of X, Y and Z axis and calculate a score based on EN 12299 regulation.
 
