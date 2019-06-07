@@ -3,6 +3,10 @@
 ![Project_Description](README/Project_Description.png)
 ![Architecture](README/Architecture.png)
 ![Components](README/Components.png)
+
+# Sketch
+![Sketch](README/Sketch.png)
+
 # Team members
 ## Orkan Akısü
 I am a senior student in Computer Engineering at Boğaziçi University. I have been interested in quantum compıting and video game design.
@@ -39,4 +43,4 @@ I am senior mechanical engineering student at Bogazici University I will graduat
 
 
 ### Contact 
-*Mail: y.deniztektas@gmail.com
+* Mail: y.deniztektas@gmail.com
